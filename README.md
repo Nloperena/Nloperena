@@ -25,3 +25,7 @@ Enhancing visibility and creating strategies that deliver results:
 
 Platforms: Google Analytics, HubSpot, Mailchimp.
 Focus: SEO optimization, email marketing, and engaging interactive elements like calculators and quizzes.
+
+---
+
+![Chill Guy](https://media.tenor.com/_iff1HvPdLEAAAAe/chill-chill-guy.png)
