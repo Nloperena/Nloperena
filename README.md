@@ -1,7 +1,19 @@
-👋 Hi, I’m Nico Loperena!
-Welcome! I'm a web developer with a strong foundation in graphic design, motion design, tech, and marketing. My work blends creativity and technical precision to deliver high-quality, impactful solutions.
+Most developers hand you a pretty website and call it done. 
+I build revenue engines that keep generating results long after launch.
 
-I specialize in keeping designs simple and straightforward while focusing on user experience and performance. Whether it's building websites, designing branding materials, or creating marketing strategies, my goal is to deliver exceptional value both technically and socially.
+What makes me different:
+→ Full-Stack + Marketing Hybrid: I speak both code and conversion—rare combination that drives real ROI
+→ Modern Tech Stack: React, AI video platforms, performance optimization that loads instantly
+→ Systems Thinking: I build marketing infrastructure, not just websites
+→ Proven Track Record: From zero-digital-presence companies to e-commerce powerhouses
+
+I work with ambitious businesses who are ready to invest in web presence that actually grows their bottom line. From service companies needing more qualified leads to e-commerce stores wanting better conversions—I build the complete system.
+
+Ready to discuss your project?
+→ Portfolio: nicoloperena.com 
+→ Direct: 407-790-5891
+→ Currently booking for Q1 2026
+
 
 🌐 Visit My Website
 Take a look at my portfolio and see what I can create for you:
