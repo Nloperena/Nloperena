@@ -14,6 +14,7 @@ Ready to discuss your project?
 → Direct: 407-790-5891
 → Currently booking for Q1 2026
 
+Every achievement is a sign that you can do more.
 
 🌐 Visit My Website
 Take a look at my portfolio and see what I can create for you:
