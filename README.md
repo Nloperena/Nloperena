@@ -11,7 +11,9 @@ I work with ambitious businesses who are ready to invest in web presence that ac
 
 Ready to discuss your project?
 → Portfolio: nicoloperena.com 
-→ Direct: 407-790-5891
+→ Direct to my AI: 407-790-5891 - 
+                                  My AI screens calls automatically and will ask what you are calling about. 
+                                  Say what you're calling about and it will let you through to me. 
 → Currently booking for Q1 2026
 
 Every achievement is a sign that you can do more.
