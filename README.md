@@ -4,13 +4,16 @@
 
 I own delivery end to end — UI, APIs, and deploy — for B2B manufacturing, e-commerce, and client platforms. Eight years from IT infrastructure into full-stack product work with measurable outcomes.
 
-## Featured work
+## Selected production work
+
+Case studies and metrics on [nicoloperena.com/work](https://www.nicoloperena.com/work):
 
 | Project | Stack | Highlights |
 | --- | --- | --- |
-| [LoperenaPortfolio2026](https://github.com/NLoperena/LoperenaPortfolio2026) | Astro, React, TypeScript | Recruiter-ready portfolio — [nicoloperena.com](https://www.nicoloperena.com) |
-| [nexrena](https://github.com/NLoperena/nexrena) | Next.js, Express, PostgreSQL, Prisma | CRM/ops platform — invoicing, PM, AI-assisted intake |
-| [FPUSA-NEXTJS-Template](https://github.com/NLoperena/FPUSA-NEXTJS-Template) | Next.js, TypeScript | Production Next.js template for client delivery |
+| [Forzabuilt](https://forzabuilt.com) | React, Astro, TypeScript, Vercel | WordPress migration · 99% Lighthouse · 28 MQLs in 4 mo |
+| [Nexrena](https://www.nexrena.com) | Next.js, Express, PostgreSQL, Prisma | CRM/ops platform — invoicing, PM, client workflows |
+| [VITO Fryfilter](https://shop.vitofryfilter.com) | Shopify, Liquid, JavaScript | +285% YoY traffic · 2.8% CVR · testimonial automation |
+| [Furniture Packages USA](https://www.furniturepackagesusa.com) | Next.js, TypeScript, SEO | +210% organic traffic · ~2× quote requests |
 
 ## Connect
 
