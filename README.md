@@ -1,24 +1,40 @@
 # Nicholas M Loperena
 
-**Senior Full-Stack Engineer** · Product-focused delivery · React, Next.js, Node.js, TypeScript · Remote (US)
+Senior Full-Stack / Product Engineer. Remote US (Kissimmee, FL / EST).
+I own production platforms: UI, API, PostgreSQL, deploy, and the integrations in between.
 
-I own delivery end to end — UI, APIs, and deploy — for B2B manufacturing, e-commerce, and client platforms. Eight years from IT infrastructure into full-stack product work with measurable outcomes.
+## Hire for
+
+- Role: Senior full-stack or product engineer, remote US
+- Stack: TypeScript, React, Next.js, Node.js, Express, PostgreSQL, Prisma
+- AI: grounded retrieval, guardrails, evals
+
+## Skills
+
+| Area | Used in production |
+| --- | --- |
+| Frontend | React, Next.js, Astro, TypeScript |
+| Backend | Node.js, Express, PostgreSQL, Prisma |
+| AI | retrieval, guardrails, evals, tool-calling |
+| Ops | Vercel, Heroku, CI |
 
 ## Selected production work
 
-Case studies and metrics on [nicoloperena.com/work](https://www.nicoloperena.com/work):
+Case studies: https://www.nicoloperena.com/work
 
-| Project | Stack | Highlights |
+| Project | Stack | Result |
 | --- | --- | --- |
-| [Forzabuilt](https://forzabuilt.com) | React, Astro, TypeScript, Vercel | WordPress migration · 99% Lighthouse · 28 MQLs in 4 mo |
-| [Nexrena](https://www.nexrena.com) | Next.js, Express, PostgreSQL, Prisma | CRM/ops platform — invoicing, PM, client workflows |
-| [VITO Fryfilter](https://shop.vitofryfilter.com) | Shopify, Liquid, JavaScript | +285% YoY traffic · 2.8% CVR · testimonial automation |
-| [Furniture Packages USA](https://www.furniturepackagesusa.com) | Next.js, TypeScript, SEO | +210% organic traffic · ~2× quote requests |
+| Forzabuilt | React Astro TypeScript | WP migration, 99% Lighthouse, 28 MQLs |
+| Nexrena platform | Next.js Express PostgreSQL | CRM PM invoicing portal, grounded AI |
+| VITO Fryfilter | Shopify | +285% YoY traffic, 2.8% CVR |
+| FPUSA | Next.js TypeScript SEO | +210% organic, about 2x quotes |
+| grounded-assistant-kit | TypeScript | retrieval, guardrails, evals, CI |
 
 ## Connect
 
-- **Portfolio:** [nicoloperena.com](https://www.nicoloperena.com)
-- **LinkedIn:** [linkedin.com/in/nicholas-loperena](https://www.linkedin.com/in/nicholas-loperena/)
-- **Resume:** [PDF on portfolio](https://www.nicoloperena.com/Nicholas_Loperena_Resume_v12.pdf)
+- https://www.nicoloperena.com
+- https://www.linkedin.com/in/nicholas-loperena
+- https://github.com/Nloperena/nexrena-platform
+- https://github.com/Nloperena/grounded-assistant-kit
 
 Open to remote senior full-stack and product engineer roles with US employers.
