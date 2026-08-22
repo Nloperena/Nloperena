@@ -19,6 +19,6 @@ Case studies and metrics on [nicoloperena.com/work](https://www.nicoloperena.com
 
 - **Portfolio:** [nicoloperena.com](https://www.nicoloperena.com)
 - **LinkedIn:** [linkedin.com/in/nicholas-loperena](https://www.linkedin.com/in/nicholas-loperena/)
-- **Resume:** [PDF on portfolio](https://www.nicoloperena.com/Nicholas_Loperena_Resume_v11.pdf)
+- **Resume:** [PDF on portfolio](https://www.nicoloperena.com/Nicholas_Loperena_Resume_v12.pdf)
 
 Open to remote senior full-stack and product engineer roles with US employers.
