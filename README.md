@@ -1,11 +1,11 @@
 # Nicholas M Loperena
 
-Senior Full-Stack / Product Engineer. Remote US (Kissimmee, FL / EST).
+Senior Full-Stack Engineer. Remote US (Kissimmee, FL / EST).
 I own production platforms: UI, API, PostgreSQL, deploy, and the integrations in between.
 
 ## Hire for
 
-- Role: Senior full-stack or product engineer, remote US
+- Role: Senior Full-Stack Engineer, remote US
 - Stack: TypeScript, React, Next.js, Node.js, Express, PostgreSQL, Prisma
 - AI: grounded retrieval, guardrails, evals
 
@@ -37,4 +37,4 @@ Case studies: https://www.nicoloperena.com/work
 - https://github.com/Nloperena/nexrena-platform
 - https://github.com/Nloperena/grounded-assistant-kit
 
-Open to remote senior full-stack and product engineer roles with US employers.
+Open to remote Senior Full-Stack Engineer roles with US employers.
