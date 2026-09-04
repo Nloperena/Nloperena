@@ -24,7 +24,7 @@ Case studies: https://www.nicoloperena.com/work
 
 | Project | Stack | Result |
 | --- | --- | --- |
-| Forzabuilt | Astro 5, React islands, TypeScript | WP migration, 99% Lighthouse, 25+ high-intent inquiries |
+| Forzabuilt | Astro 5, React islands, TypeScript | WP migration, 99% Lighthouse, 25+ high-intent commercial inquiries through May 2026 |
 | Nexrena platform | Next.js Express PostgreSQL | CRM PM invoicing portal, grounded AI |
 | VITO Fryfilter | Shopify | +285% YoY traffic, 2.8% CVR |
 | FPUSA | Next.js TypeScript SEO | +210% organic, about 2x quotes |
